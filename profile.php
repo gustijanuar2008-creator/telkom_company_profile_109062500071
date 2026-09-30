@@ -19,4 +19,26 @@ require 'includes/header.php';
         </div>
     </div>
 </section>
+<section class="section section-soft">
+    <div class="container">
+        <div class="section-heading">
+            <span class="eyebrow">Fokus Pembelajaran</span>
+            <h2>Apa yang akan kamu pelajari?</h2>
+        </div>
+        <div class="grid-3">
+            <article class="card">
+                <h3>Artificial Intelligence</h3>
+                <p>Mempelajari konsep dan penerapan kecerdasan buatan dalam aplikasi web.</p>
+            </article>
+            <article class="card">
+                <h3>Desain UI/UX</h3>
+                <p>Mengerti prinsip-prinsip desain antarmuka dan pengalaman pengguna untuk menciptakan produk digital yang efektif.</p>
+            </article>
+            <article class="card">
+                <h3>Manajemen Proyek</h3>
+                <p>Memahami proses dan teknik manajemen proyek dalam pengembangan perangkat lunak.</p>
+            </article>
+        </div>
+    </div>
+</section>
 <?php require 'includes/footer.php'; ?>
